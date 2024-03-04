@@ -1,0 +1,19 @@
+.card-header{
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    background-color: darkslategrey;
+    margin-top: 20px;
+    margin-bottom:20px;
+    padding:90px 92px;
+}
+
+.weather-button{
+    background-color: lightgreen;
+}
+.card-img-top{
+    width: 250px;
+    height: 150px;
+    padding-bottom:20px;
+}
